@@ -1,4 +1,4 @@
-# Abdur Rehman – Resume
+# Abdur Rehman – Resume And Transcript(DMC)
 
 This repository contains the latest version of my professional resume.
 
